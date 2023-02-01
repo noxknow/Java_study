@@ -1,4 +1,3 @@
-```java
 
 public class Exam05 {
 
@@ -24,4 +23,3 @@ public class Exam05 {
 
 }
 
-```
