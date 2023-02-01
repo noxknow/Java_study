@@ -1,4 +1,3 @@
-```java
 public class Exam07 {
 
 	public static void main(String[] args) {
@@ -45,4 +44,4 @@ public class Exam07 {
 	}
 
 }
-```
+
