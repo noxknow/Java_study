@@ -1,4 +1,3 @@
-```java
 import java.util.*;
 
 class Solution {
@@ -30,4 +29,3 @@ class Solution {
         return answer;
     }
 }
-```
