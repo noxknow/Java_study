@@ -1,17 +1,17 @@
 # <img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" width="30"> [1261] 알고스팟
 
-📌 → https://www.acmicpc.net/problem/1261
+📌 → https://www.acmicpc.net/problem/1261 <br/><br/>
 
 **주의할 점**
 
-1. n과 m이 헷갈리지 않도록 한다.
+1. n과 m이 헷갈리지 않도록 한다. <br/><br/>
 
 **핵심 로직**
 
 1. 최소한으로 벽을 부수고 목적지에 도달해야하기 때문에 PriorityQueue를 활용한다.
     1. 벽이 있을 때 ) pq에 추가할 때 벽 부순 갯수 + 1을 해준다.
     2. 벽이 없을 때 ) pq에 추가할 때 벽 부순 갯수 그대로 들어간다.
-2. 미로를 움직일 때 마다 부순 벽의 갯수를 walls 배열에 입력해둔 후 출력한다.
+2. 미로를 움직일 때 마다 부순 벽의 갯수를 walls 배열에 입력해둔 후 출력한다. <br/><br/>
 
 ```
 3 3
