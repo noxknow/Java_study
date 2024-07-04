@@ -4,7 +4,7 @@
 
 **주의할 점**
 
-1. `*bloodTree*.put(rootNode, 1d);`  의 위치가 for문보다 전에 나오는 경우 rootNode의 값이 -1로 갱신되기 때문에 for문의 뒤에 둬야한다. <br/><br/>
+1. `bloodTree.put(rootNode, 1d);`  의 위치가 for문보다 전에 나오는 경우 rootNode의 값이 -1로 갱신되기 때문에 for문의 뒤에 둬야한다. <br/><br/>
 
 **핵심 로직**
 
