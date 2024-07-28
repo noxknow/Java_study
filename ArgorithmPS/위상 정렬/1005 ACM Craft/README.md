@@ -1,4 +1,4 @@
-# <img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" width="30"> [1005] ACM Craft 
+# <img src="https://d2gd6pc034wcta.cloudfront.net/tier/13.svg" width="30"> [1005] ACM Craft 
 
 📌 → https://www.acmicpc.net/problem/1005 <br/><br/>
 
