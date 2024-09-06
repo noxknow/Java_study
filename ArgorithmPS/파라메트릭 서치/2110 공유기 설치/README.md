@@ -1,4 +1,4 @@
-# <img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" width="30"> [2110] 공유기 설치
+# <img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" width="30"> [2110] 공유기 설치
 
 📌 → https://www.acmicpc.net/problem/2110 <br/><br/>
 
