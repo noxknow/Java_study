@@ -1,4 +1,4 @@
-# <img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" width="30"> [1079] 마피아 
+# <img src="https://d2gd6pc034wcta.cloudfront.net/tier/14.svg" width="30"> [1079] 마피아 
 
 📌 → https://www.acmicpc.net/problem/1079 <br/><br/>
 
