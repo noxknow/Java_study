@@ -1,4 +1,4 @@
-# <img src="https://d2gd6pc034wcta.cloudfront.net/tier/14.svg" width="30"> [2238] 구간 자르기
+# <img src="https://d2gd6pc034wcta.cloudfront.net/tier/14.svg" width="30"> [2283] 구간 자르기
 
 📌 → https://www.acmicpc.net/problem/2283 <br/><br/>
 
