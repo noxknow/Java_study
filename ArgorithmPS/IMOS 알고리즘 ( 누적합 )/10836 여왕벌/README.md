@@ -1,4 +1,4 @@
-# <img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" width="30"> [10836] 여왕
+# <img src="https://d2gd6pc034wcta.cloudfront.net/tier/13.svg" width="30"> [10836] 여왕벌
 
 📌 → https://www.acmicpc.net/problem/10836 <br/><br/>
 
